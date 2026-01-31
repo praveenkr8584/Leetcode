@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/praveenkr8584/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/praveenkr8584/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Dynamic Programming
 |  |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveenkr8584/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveenkr8584/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/praveenkr8584/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/praveenkr8584/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
