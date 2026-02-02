@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/praveenkr8584/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/praveenkr8584/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praveenkr8584/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveenkr8584/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praveenkr8584/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
