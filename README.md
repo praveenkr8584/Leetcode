@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/praveenkr8584/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/praveenkr8584/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/praveenkr8584/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praveenkr8584/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/praveenkr8584/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praveenkr8584/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -90,4 +92,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/praveenkr8584/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/praveenkr8584/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/praveenkr8584/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
