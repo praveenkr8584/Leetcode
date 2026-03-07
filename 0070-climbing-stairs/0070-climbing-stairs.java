@@ -1,18 +1,10 @@
 class Solution {
-    int[] r;
     public int climbStairs(int n) {
-        r=new int[n+1];
-        Arrays.fill(r,-1);
-        r[0]=1;
-        r[1] =1;
-        return climb(n);
+        int[] x=new int[n+1];
+        Arrays.fill(x,1);
+        for(int i=2;i<n+1;i++){
+            x[i]=x[i-1]+x[i-2];
+        }
+        return x[n];
     }
-    public int climb(int n){
-            if(r[n]!=-1){
-                return r[n];
-            }
-            r[n]=climb(n-1)+climb(n-2);
-            return r[n];
-    }
-    
 }
