@@ -3,22 +3,18 @@ class Solution {
         int i=0;int j=0;
         int count=0;
         HashMap<Integer,Integer> hs=new HashMap<>();
-        while(i<arr.length && j<arr.length){
+        while(j<arr.length){
             hs.put(arr[j],hs.getOrDefault(arr[j],0)+1);
-            if(hs.size()<=k){
-                count+=j-i+1;
-                j++;
-            }else if(hs.size()>k){
-                while(hs.size()>k){
-                    hs.put(arr[i],hs.get(arr[i])-1);
-                    if(hs.get(arr[i])<=0){
-                        hs.remove(arr[i]);
-                    }
-                    i++;
+            while(hs.size()>k){
+                hs.put(arr[i],hs.get(arr[i])-1);
+                if(hs.get(arr[i])<=0){
+                    hs.remove(arr[i]);
                 }
-                count+=j-i+1;
-                j++;
+                i++;
             }
+            count+=j-i+1;
+            j++;
+            
         }
         return count;
     }
