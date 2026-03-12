@@ -11,10 +11,6 @@ class Solution {
         }
         int[] res=new int[digits.length+1];
         res[0]=1;
-        int j=1;
-        for(int x:digits){
-            res[j++]=x;
-        }
         return res;
         
     }
