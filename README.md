@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/praveenkr8584/Leetcode/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/praveenkr8584/Leetcode/tree/master/1446-consecutive-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/praveenkr8584/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [3856-trim-trailing-vowels](https://github.com/praveenkr8584/Leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Bit Manipulation
 |  |
 | ------- |
