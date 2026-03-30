@@ -20,18 +20,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0112-path-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkr8584/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
