@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/praveenkr8584/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/praveenkr8584/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/praveenkr8584/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/praveenkr8584/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/praveenkr8584/Leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/praveenkr8584/Leetcode/tree/master/0326-power-of-three) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/praveenkr8584/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/praveenkr8584/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/praveenkr8584/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/praveenkr8584/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/praveenkr8584/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/praveenkr8584/Leetcode/tree/master/0342-power-of-four) |
