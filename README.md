@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praveenkr8584/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3379-transformed-array](https://github.com/praveenkr8584/Leetcode/tree/master/3379-transformed-array) |
+| [3546-equal-sum-grid-partition-i](https://github.com/praveenkr8584/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/praveenkr8584/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkr8584/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praveenkr8584/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/praveenkr8584/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/praveenkr8584/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2906-construct-product-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/2906-construct-product-matrix) |
+| [3546-equal-sum-grid-partition-i](https://github.com/praveenkr8584/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/praveenkr8584/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveenkr8584/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3546-equal-sum-grid-partition-i](https://github.com/praveenkr8584/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/praveenkr8584/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Number Theory
 |  |
