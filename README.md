@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Array
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/praveenkr8584/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenkr8584/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/praveenkr8584/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveenkr8584/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -130,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/praveenkr8584/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praveenkr8584/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
