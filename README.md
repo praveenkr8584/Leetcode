@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/praveenkr8584/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveenkr8584/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/praveenkr8584/Leetcode/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkr8584/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/praveenkr8584/Leetcode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/praveenkr8584/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0459-repeated-substring-pattern](https://github.com/praveenkr8584/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [0657-robot-return-to-origin](https://github.com/praveenkr8584/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/praveenkr8584/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/praveenkr8584/Leetcode/tree/master/0796-rotate-string) |
 | [1446-consecutive-characters](https://github.com/praveenkr8584/Leetcode/tree/master/1446-consecutive-characters) |
