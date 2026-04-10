@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/praveenkr8584/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/praveenkr8584/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/praveenkr8584/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkr8584/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/praveenkr8584/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/praveenkr8584/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/praveenkr8584/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Breadth-First Search
 |  |
 | ------- |
