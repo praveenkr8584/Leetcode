@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/praveenkr8584/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/praveenkr8584/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/praveenkr8584/Leetcode/tree/master/0066-plus-one) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/praveenkr8584/Leetcode/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveenkr8584/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/praveenkr8584/Leetcode/tree/master/0187-repeated-dna-sequences) |
