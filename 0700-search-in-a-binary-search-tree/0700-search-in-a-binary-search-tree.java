@@ -14,19 +14,18 @@
  * }
  */
 class Solution {
-    TreeNode x=null;
+    
     public TreeNode searchBST(TreeNode root, int val) {
         if(root==null){
             return null;
         }
         if(root.val==val){
-            x=root;
-            return x;
+            return root;
         }else if(root.val>val){
-            searchBST(root.left,val);
+            root=searchBST(root.left,val);
         }else{
-            searchBST(root.right,val);
+            root=searchBST(root.right,val);
         }
-        return x;
+        return root;
     }
 }
