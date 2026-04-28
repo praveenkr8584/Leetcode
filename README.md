@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/praveenkr8584/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/praveenkr8584/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/praveenkr8584/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/praveenkr8584/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0992-subarrays-with-k-different-integers](https://github.com/praveenkr8584/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/praveenkr8584/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/praveenkr8584/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/praveenkr8584/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/praveenkr8584/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/praveenkr8584/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/praveenkr8584/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Monotonic Stack
