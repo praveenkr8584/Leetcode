@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/praveenkr8584/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/praveenkr8584/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/praveenkr8584/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/praveenkr8584/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenkr8584/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/praveenkr8584/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveenkr8584/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/praveenkr8584/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenkr8584/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/praveenkr8584/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
