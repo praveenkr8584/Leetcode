@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/praveenkr8584/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/praveenkr8584/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/praveenkr8584/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkr8584/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2906-construct-product-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveenkr8584/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praveenkr8584/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/praveenkr8584/Leetcode/tree/master/0509-fibonacci-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/praveenkr8584/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkr8584/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Hash Table
 |  |
 | ------- |
