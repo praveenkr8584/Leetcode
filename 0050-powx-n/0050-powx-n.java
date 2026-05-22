@@ -1,14 +1,17 @@
 class Solution {
-    public double myPow(double x, int n) {
-        long N = n;
-        if (N < 0) return 1 / power(x, -N);
-        return power(x, N);
+    public double helper(double x, long m) {
+        if (m == 0) return 1;
+        if (m % 2 == 0) {
+            double half = helper(x, m / 2);
+            return half * half;         // x^m = (x^(m/2))^2
+        } else {
+            return x * helper(x, m - 1); // x^m = x * x^(m-1)
+        }
     }
 
-    private double power(double x, long n) {
-        if (n == 0) return 1;
-
-        double half = power(x, n / 2);
-        return (n % 2 == 0) ? half * half : half * half * x;
+    public double myPow(double x, int n) {
+        long new_n = Math.abs((long) n);  // cast to long to handle Integer.MIN_VALUE
+        double power = helper(x, new_n);
+        return n >= 0 ? power : 1 / power;
     }
 }
