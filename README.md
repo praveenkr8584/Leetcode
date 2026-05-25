@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/praveenkr8584/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/praveenkr8584/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/praveenkr8584/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/praveenkr8584/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/praveenkr8584/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/praveenkr8584/Leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/praveenkr8584/Leetcode/tree/master/0326-power-of-three) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/praveenkr8584/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/praveenkr8584/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/praveenkr8584/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/praveenkr8584/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/praveenkr8584/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/praveenkr8584/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
