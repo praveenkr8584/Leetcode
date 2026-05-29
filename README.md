@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/praveenkr8584/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/praveenkr8584/Leetcode/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/praveenkr8584/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0819-most-common-word](https://github.com/praveenkr8584/Leetcode/tree/master/0819-most-common-word) |
 | [0874-walking-robot-simulation](https://github.com/praveenkr8584/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0973-k-closest-points-to-origin](https://github.com/praveenkr8584/Leetcode/tree/master/0973-k-closest-points-to-origin) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/praveenkr8584/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/praveenkr8584/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/praveenkr8584/Leetcode/tree/master/0706-design-hashmap) |
+| [0819-most-common-word](https://github.com/praveenkr8584/Leetcode/tree/master/0819-most-common-word) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/praveenkr8584/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/praveenkr8584/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/praveenkr8584/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/praveenkr8584/Leetcode/tree/master/0796-rotate-string) |
+| [0819-most-common-word](https://github.com/praveenkr8584/Leetcode/tree/master/0819-most-common-word) |
 | [1446-consecutive-characters](https://github.com/praveenkr8584/Leetcode/tree/master/1446-consecutive-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/praveenkr8584/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/praveenkr8584/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/praveenkr8584/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/praveenkr8584/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0819-most-common-word](https://github.com/praveenkr8584/Leetcode/tree/master/0819-most-common-word) |
 | [0992-subarrays-with-k-different-integers](https://github.com/praveenkr8584/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/praveenkr8584/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2833-furthest-point-from-origin](https://github.com/praveenkr8584/Leetcode/tree/master/2833-furthest-point-from-origin) |
