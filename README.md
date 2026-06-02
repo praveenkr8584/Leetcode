@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/praveenkr8584/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/praveenkr8584/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/praveenkr8584/Leetcode/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/praveenkr8584/Leetcode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/praveenkr8584/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/praveenkr8584/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/praveenkr8584/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/praveenkr8584/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/praveenkr8584/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/praveenkr8584/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/praveenkr8584/Leetcode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0063-unique-paths-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/praveenkr8584/Leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/praveenkr8584/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
