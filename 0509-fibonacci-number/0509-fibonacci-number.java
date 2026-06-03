@@ -1,11 +1,14 @@
 class Solution {
+    int[] dp;
+    int solve(int n){
+        if(n==0)return 0;
+        if(n==1)return 1;
+        if(dp[n]!=-1)return dp[n];
+        return dp[n]=solve(n-1)+solve(n-2);
+    }
     public int fib(int n) {
-       int[] x=new int[n+1];
-        Arrays.fill(x,1);
-        x[0]=0;
-        for(int i=2;i<n+1;i++){
-            x[i]=x[i-1]+x[i-2];
-        }
-        return x[n];
+       dp=new int[n+1];
+       Arrays.fill(dp,-1);
+       return solve(n);
     }
 }
