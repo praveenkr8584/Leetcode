@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/praveenkr8584/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/praveenkr8584/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3693-climbing-stairs-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/praveenkr8584/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/praveenkr8584/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkr8584/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/praveenkr8584/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkr8584/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3693-climbing-stairs-ii](https://github.com/praveenkr8584/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
