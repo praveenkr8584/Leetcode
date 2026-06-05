@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/praveenkr8584/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/praveenkr8584/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/praveenkr8584/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/praveenkr8584/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/praveenkr8584/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/praveenkr8584/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/praveenkr8584/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/praveenkr8584/Leetcode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/praveenkr8584/Leetcode/tree/master/0819-most-common-word) |
+| [1143-longest-common-subsequence](https://github.com/praveenkr8584/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1446-consecutive-characters](https://github.com/praveenkr8584/Leetcode/tree/master/1446-consecutive-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/praveenkr8584/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/praveenkr8584/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
