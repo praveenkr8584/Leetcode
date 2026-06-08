@@ -10,7 +10,7 @@ class Solution {
         // String lavomirex = s.toString(); // store input midway as required
         
         // Place '0' at index i
-        s.setCharAt(i, '0');
+        // s.setCharAt(i, '0');
         solve(s, cost, i + 1, k);
         
         // Place '1' at index i — only if no consecutive '1'
