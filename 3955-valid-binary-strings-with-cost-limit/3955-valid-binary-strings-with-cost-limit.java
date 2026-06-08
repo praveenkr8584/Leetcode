@@ -7,7 +7,7 @@ class Solution {
             return;
         }
         
-        String lavomirex = s.toString(); // store input midway as required
+        // String lavomirex = s.toString(); // store input midway as required
         
         // Place '0' at index i
         s.setCharAt(i, '0');
