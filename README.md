@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/praveenkr8584/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/praveenkr8584/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/praveenkr8584/Leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/praveenkr8584/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/praveenkr8584/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/praveenkr8584/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/praveenkr8584/Leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/praveenkr8584/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/praveenkr8584/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0113-path-sum-ii) |
