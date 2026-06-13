@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/praveenkr8584/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/praveenkr8584/Leetcode/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/praveenkr8584/Leetcode/tree/master/0695-max-area-of-island) |
 | [0814-binary-tree-pruning](https://github.com/praveenkr8584/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/praveenkr8584/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/praveenkr8584/Leetcode/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/praveenkr8584/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/praveenkr8584/Leetcode/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/praveenkr8584/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/praveenkr8584/Leetcode/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/praveenkr8584/Leetcode/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/praveenkr8584/Leetcode/tree/master/0695-max-area-of-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/praveenkr8584/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/praveenkr8584/Leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/praveenkr8584/Leetcode/tree/master/0695-max-area-of-island) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/praveenkr8584/Leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/praveenkr8584/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -555,4 +559,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/praveenkr8584/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/praveenkr8584/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/praveenkr8584/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
