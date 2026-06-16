@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/praveenkr8584/Leetcode/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/praveenkr8584/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/praveenkr8584/Leetcode/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/praveenkr8584/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Linked List
 |  |
@@ -563,10 +565,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/praveenkr8584/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/praveenkr8584/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/praveenkr8584/Leetcode/tree/master/0695-max-area-of-island) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/praveenkr8584/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/praveenkr8584/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/praveenkr8584/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/praveenkr8584/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
