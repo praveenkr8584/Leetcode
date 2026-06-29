@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/praveenkr8584/Leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/praveenkr8584/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/praveenkr8584/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/praveenkr8584/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/praveenkr8584/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2293-min-max-game](https://github.com/praveenkr8584/Leetcode/tree/master/2293-min-max-game) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/praveenkr8584/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/praveenkr8584/Leetcode/tree/master/1446-consecutive-characters) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/praveenkr8584/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/praveenkr8584/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/praveenkr8584/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/praveenkr8584/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/praveenkr8584/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/praveenkr8584/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
