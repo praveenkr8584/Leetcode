@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/praveenkr8584/Leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/praveenkr8584/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/praveenkr8584/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1929-concatenation-of-array](https://github.com/praveenkr8584/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/praveenkr8584/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/praveenkr8584/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2293-min-max-game](https://github.com/praveenkr8584/Leetcode/tree/master/2293-min-max-game) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/praveenkr8584/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/praveenkr8584/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/praveenkr8584/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
+| [1929-concatenation-of-array](https://github.com/praveenkr8584/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/praveenkr8584/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2293-min-max-game](https://github.com/praveenkr8584/Leetcode/tree/master/2293-min-max-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/praveenkr8584/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
