@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/praveenkr8584/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/praveenkr8584/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/praveenkr8584/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/praveenkr8584/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/praveenkr8584/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/praveenkr8584/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/praveenkr8584/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/praveenkr8584/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/praveenkr8584/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/praveenkr8584/Leetcode/tree/master/0200-number-of-islands) |
