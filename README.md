@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/praveenkr8584/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/praveenkr8584/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/praveenkr8584/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/praveenkr8584/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/praveenkr8584/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/praveenkr8584/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/praveenkr8584/Leetcode/tree/master/0054-spiral-matrix) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/praveenkr8584/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/praveenkr8584/Leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/praveenkr8584/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/praveenkr8584/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/praveenkr8584/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/praveenkr8584/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/praveenkr8584/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/praveenkr8584/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/praveenkr8584/Leetcode/tree/master/0169-majority-element) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/praveenkr8584/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/praveenkr8584/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveenkr8584/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/praveenkr8584/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/praveenkr8584/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/praveenkr8584/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/praveenkr8584/Leetcode/tree/master/0131-palindrome-partitioning) |
