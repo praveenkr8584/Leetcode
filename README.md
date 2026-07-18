@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/praveenkr8584/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/praveenkr8584/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/praveenkr8584/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/praveenkr8584/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/praveenkr8584/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/praveenkr8584/Leetcode/tree/master/0051-n-queens) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/praveenkr8584/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/praveenkr8584/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/praveenkr8584/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/praveenkr8584/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/praveenkr8584/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/praveenkr8584/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveenkr8584/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/praveenkr8584/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/praveenkr8584/Leetcode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/praveenkr8584/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveenkr8584/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/praveenkr8584/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/praveenkr8584/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/praveenkr8584/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/praveenkr8584/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0654-maximum-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Design
