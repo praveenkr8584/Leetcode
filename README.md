@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/praveenkr8584/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/praveenkr8584/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/praveenkr8584/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/praveenkr8584/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/praveenkr8584/Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0213-house-robber-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/praveenkr8584/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveenkr8584/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/praveenkr8584/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/praveenkr8584/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/praveenkr8584/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/praveenkr8584/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/praveenkr8584/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/praveenkr8584/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveenkr8584/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/praveenkr8584/Leetcode/tree/master/0414-third-maximum-number) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/praveenkr8584/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/praveenkr8584/Leetcode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/praveenkr8584/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/praveenkr8584/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/praveenkr8584/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/praveenkr8584/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0654-maximum-binary-tree) |
