@@ -13,7 +13,6 @@ class Solution(object):
                 if i+1<len(nums1):
                     heapq.heappush(heap,(nums1[i+1]+nums2[j],i+1,j))
                 k-=1
-
             return res
         return helper(nums1,nums2,k)
         
