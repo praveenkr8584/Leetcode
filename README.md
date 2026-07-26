@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/praveenkr8584/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/praveenkr8584/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/praveenkr8584/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/praveenkr8584/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/praveenkr8584/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/praveenkr8584/Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/praveenkr8584/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/praveenkr8584/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenkr8584/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/praveenkr8584/Leetcode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/praveenkr8584/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/praveenkr8584/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/praveenkr8584/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/praveenkr8584/Leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/praveenkr8584/Leetcode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/praveenkr8584/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/praveenkr8584/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0870-advantage-shuffle](https://github.com/praveenkr8584/Leetcode/tree/master/0870-advantage-shuffle) |
