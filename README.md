@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/praveenkr8584/Leetcode/tree/master/0690-employee-importance) |
 | [0700-search-in-a-binary-search-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/praveenkr8584/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0814-binary-tree-pruning](https://github.com/praveenkr8584/Leetcode/tree/master/0814-binary-tree-pruning) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/praveenkr8584/Leetcode/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/praveenkr8584/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/praveenkr8584/Leetcode/tree/master/0695-max-area-of-island) |
 | [0814-binary-tree-pruning](https://github.com/praveenkr8584/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/praveenkr8584/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0690-employee-importance](https://github.com/praveenkr8584/Leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/praveenkr8584/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/praveenkr8584/Leetcode/tree/master/0695-max-area-of-island) |
 | [0705-design-hashset](https://github.com/praveenkr8584/Leetcode/tree/master/0705-design-hashset) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/praveenkr8584/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/praveenkr8584/Leetcode/tree/master/0621-task-scheduler) |
+| [0690-employee-importance](https://github.com/praveenkr8584/Leetcode/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/praveenkr8584/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/praveenkr8584/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/praveenkr8584/Leetcode/tree/master/0706-design-hashmap) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0429-n-ary-tree-level-order-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/praveenkr8584/Leetcode/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/praveenkr8584/Leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/praveenkr8584/Leetcode/tree/master/0695-max-area-of-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/praveenkr8584/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
