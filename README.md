@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/praveenkr8584/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/praveenkr8584/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/praveenkr8584/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/praveenkr8584/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/praveenkr8584/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/praveenkr8584/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/praveenkr8584/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/praveenkr8584/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/praveenkr8584/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/praveenkr8584/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3856-trim-trailing-vowels](https://github.com/praveenkr8584/Leetcode/tree/master/3856-trim-trailing-vowels) |
 ## Bit Manipulation
 |  |
@@ -745,4 +747,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/praveenkr8584/Leetcode/tree/master/0207-course-schedule) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/praveenkr8584/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
