@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/praveenkr8584/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/praveenkr8584/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/praveenkr8584/Leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/praveenkr8584/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/praveenkr8584/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/praveenkr8584/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/praveenkr8584/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/praveenkr8584/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/praveenkr8584/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/praveenkr8584/Leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/praveenkr8584/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/praveenkr8584/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/praveenkr8584/Leetcode/tree/master/0392-is-subsequence) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/praveenkr8584/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/praveenkr8584/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/praveenkr8584/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/praveenkr8584/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/praveenkr8584/Leetcode/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/praveenkr8584/Leetcode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0463-island-perimeter](https://github.com/praveenkr8584/Leetcode/tree/master/0463-island-perimeter) |
