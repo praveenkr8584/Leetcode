@@ -2,6 +2,7 @@ class Solution {
     void solve(int[] nums,List<Integer> sub,List<List<Integer>> res){
         if(sub.size()==nums.length){
             res.add(new ArrayList<>(sub));
+            return;
         }
         for(int num:nums){
             if(sub.contains(num))continue;
