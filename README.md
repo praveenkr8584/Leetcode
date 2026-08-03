@@ -757,4 +757,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/praveenkr8584/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/praveenkr8584/Leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/praveenkr8584/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
