@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/praveenkr8584/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/praveenkr8584/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/praveenkr8584/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/praveenkr8584/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/praveenkr8584/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/praveenkr8584/Leetcode/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/praveenkr8584/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveenkr8584/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/praveenkr8584/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/praveenkr8584/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/praveenkr8584/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/praveenkr8584/Leetcode/tree/master/0455-assign-cookies) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/praveenkr8584/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/praveenkr8584/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/praveenkr8584/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/praveenkr8584/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/praveenkr8584/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/praveenkr8584/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/praveenkr8584/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/praveenkr8584/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/praveenkr8584/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/praveenkr8584/Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0287-find-the-duplicate-number](https://github.com/praveenkr8584/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/praveenkr8584/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/praveenkr8584/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/praveenkr8584/Leetcode/tree/master/0476-number-complement) |
@@ -796,4 +800,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/praveenkr8584/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/praveenkr8584/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/praveenkr8584/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
